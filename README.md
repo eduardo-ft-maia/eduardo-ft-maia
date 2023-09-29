@@ -2,7 +2,7 @@
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,nginx,docker,cs,java,js,ts,react,styledcomponents,html,css&perline=6)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,nginx,docker,cs,java,js,ts,react,python,html,css&perline=6)]()
 <!--
 **eduardo-ft-maia/eduardo-ft-maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
